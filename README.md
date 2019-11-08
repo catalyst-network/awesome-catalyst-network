@@ -1,4 +1,4 @@
-# awsome-catalyst-network
+# awesome-catalyst-network
 A curated list of awesome things related to Catalyst-Network
 
 ## Blockchain History: Genesis (1980–2009)
